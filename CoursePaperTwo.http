@@ -1,0 +1,13 @@
+###
+GET http://localhost:8080/exam/java/add?question=You_Name&answer=My_Name_Xamster
+###
+###
+GET http://localhost:8080/exam/java/add?question=Are_you_using_a_calculator&answer=No_calculator_for_weaklings
+###
+###
+GET http://localhost:8080/exam/java/add?question=You_Have_Hamster&answer=No_hamster_is_evil
+###
+###
+GET http://localhost:8080/exam/java/add?question=You_First_Name&answer=Hrrr
+###
+GET http://localhost:8080/exam/get/1
